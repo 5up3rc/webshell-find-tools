@@ -1,6 +1,8 @@
 Webshell find tools
 ===
 
+[![License](https://img.shields.io/github/license/wofeiwo/webshell-find-tools.svg)](https://github.com/wofeiwo/webshell-find-tools/LICENSE)
+
 ## 介绍
 
 这里面包含两个小脚本，主要是用来在Web服务器上查找Webshell而写的小程序。
