@@ -87,4 +87,4 @@ fca改名了，因为这一次是大升级，因此不单单只是ctime分组的
 * `mysqluser`参数:
   1. `-m`: mysql默认的运行用户。所有mysql导出文件应该都是这个属主，可以通过这个过滤出Mysql导出的文件。
 
-Copyright (c) 2013-2013 wofeiwo, released under the MIT license
+Copyright (c) 2013-2017 wofeiwo, released under the Apache license
